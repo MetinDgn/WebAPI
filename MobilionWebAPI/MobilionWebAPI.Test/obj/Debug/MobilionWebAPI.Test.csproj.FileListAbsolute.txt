@@ -1,0 +1,17 @@
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\MobilionWebAPI.Test.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\MobilionWebAPI.Test.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\System.ValueTuple.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\bin\Debug\System.ValueTuple.xml
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\obj\Debug\MobilionWebAPI.Test.csproj.CoreCompileInputs.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\obj\Debug\MobilionWebAPI.Test.csproj.CopyComplete
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\obj\Debug\MobilionWebAPI.Test.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\MobilionWebAPI.Test\obj\Debug\MobilionWebAPI.Test.pdb

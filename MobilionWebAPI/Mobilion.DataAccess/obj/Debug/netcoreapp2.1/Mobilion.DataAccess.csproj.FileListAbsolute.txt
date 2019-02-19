@@ -1,0 +1,14 @@
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\bin\Debug\netcoreapp2.1\Mobilion.Core.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\bin\Debug\netcoreapp2.1\Mobilion.Entities.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\obj\Debug\netcoreapp2.1\Mobilion.DataAccess.csprojAssemblyReference.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\obj\Debug\netcoreapp2.1\Mobilion.DataAccess.csproj.CoreCompileInputs.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\obj\Debug\netcoreapp2.1\Mobilion.DataAccess.AssemblyInfoInputs.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\obj\Debug\netcoreapp2.1\Mobilion.DataAccess.AssemblyInfo.cs
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\bin\Debug\netcoreapp2.1\Mobilion.DataAccess.deps.json
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\bin\Debug\netcoreapp2.1\Mobilion.DataAccess.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\bin\Debug\netcoreapp2.1\Mobilion.DataAccess.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\bin\Debug\netcoreapp2.1\Mobilion.Core.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\bin\Debug\netcoreapp2.1\Mobilion.Entities.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\obj\Debug\netcoreapp2.1\Mobilion.DataAccess.csproj.CopyComplete
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\obj\Debug\netcoreapp2.1\Mobilion.DataAccess.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.DataAccess\obj\Debug\netcoreapp2.1\Mobilion.DataAccess.pdb

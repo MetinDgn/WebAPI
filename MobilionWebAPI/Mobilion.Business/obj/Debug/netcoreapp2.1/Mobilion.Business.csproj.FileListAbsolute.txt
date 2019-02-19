@@ -1,0 +1,16 @@
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.Business.deps.json
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.Business.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.Business.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\obj\Debug\netcoreapp2.1\Mobilion.Business.csprojAssemblyReference.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\obj\Debug\netcoreapp2.1\Mobilion.Business.csproj.CoreCompileInputs.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\obj\Debug\netcoreapp2.1\Mobilion.Business.AssemblyInfoInputs.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\obj\Debug\netcoreapp2.1\Mobilion.Business.AssemblyInfo.cs
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\obj\Debug\netcoreapp2.1\Mobilion.Business.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\obj\Debug\netcoreapp2.1\Mobilion.Business.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.Core.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.DataAccess.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.Entities.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.DataAccess.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.Entities.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\bin\Debug\netcoreapp2.1\Mobilion.Core.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Business\obj\Debug\netcoreapp2.1\Mobilion.Business.csproj.CopyComplete

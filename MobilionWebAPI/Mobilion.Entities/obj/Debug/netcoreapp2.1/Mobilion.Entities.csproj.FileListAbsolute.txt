@@ -1,0 +1,12 @@
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\bin\Debug\netcoreapp2.1\Mobilion.Entities.deps.json
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\bin\Debug\netcoreapp2.1\Mobilion.Entities.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\bin\Debug\netcoreapp2.1\Mobilion.Entities.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\bin\Debug\netcoreapp2.1\Mobilion.Core.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\bin\Debug\netcoreapp2.1\Mobilion.Core.pdb
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\obj\Debug\netcoreapp2.1\Mobilion.Entities.csprojAssemblyReference.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\obj\Debug\netcoreapp2.1\Mobilion.Entities.csproj.CoreCompileInputs.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\obj\Debug\netcoreapp2.1\Mobilion.Entities.AssemblyInfoInputs.cache
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\obj\Debug\netcoreapp2.1\Mobilion.Entities.AssemblyInfo.cs
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\obj\Debug\netcoreapp2.1\Mobilion.Entities.csproj.CopyComplete
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\obj\Debug\netcoreapp2.1\Mobilion.Entities.dll
+C:\Software\Denemeler\Mobilion_MetinDogan\MobilionWebAPI\Mobilion.Entities\obj\Debug\netcoreapp2.1\Mobilion.Entities.pdb

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mobilion.DataAccess\Mobilion.DataAccess.csproj" />
+    <ProjectReference Include="..\Mobilion.Entities\Mobilion.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
